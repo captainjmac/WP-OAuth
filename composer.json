@@ -1,0 +1,9 @@
+{
+	"name": "wp-plugin/wp-oauth",
+	"type": "wordpress-plugin",
+	"dist": {
+		"url": "https://github.com/captainjmac/WP-OAuth/archive/master.zip",
+		"type": "zip"
+	}
+
+}
